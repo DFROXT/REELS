@@ -1,0 +1,8 @@
+yt-dlp
+moviepy
+openai
+python-dotenv
+flask
+gunicorn
+ffmpeg-python
+opencv-python-headless
